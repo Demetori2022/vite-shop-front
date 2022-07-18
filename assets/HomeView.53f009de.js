@@ -1,0 +1,1 @@
+import{o as t,a7 as o,b as e,w as a,V as s,d as c,g as r,aN as n}from"./index.9630c3d1.js";const d={id:"admin-home"},_=r("h1",{class:"text-center"},"\u8ACB\u9078\u64C7\u7BA1\u7406\u9805\u76EE",-1);function l(f,m){return t(),o("div",d,[e(s,null,{default:a(()=>[e(c,{cols:"12"},{default:a(()=>[_]),_:1})]),_:1})])}const i={};var u=n(i,[["render",l]]);export{u as default};
